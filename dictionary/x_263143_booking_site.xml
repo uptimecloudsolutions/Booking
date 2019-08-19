@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Site" max_length="40" name="x_263143_booking_site" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="integer"/>
+        <element label="Breadth" max_length="15" name="breadth" type="decimal"/>
+        <element label="Closed" max_length="40" name="closed" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="50" name="comments" type="string"/>
+        <element label="Cost" max_length="15" name="cost" type="decimal"/>
+        <element label="FireplaceTypeID" max_length="40" name="fireplacetypeid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="HREF" max_length="128" name="href" type="string"/>
+        <element label="Length" max_length="15" name="length" type="decimal"/>
+        <element label="MapID" max_length="40" name="mapid" type="integer"/>
+        <element label="MaxPeople" max_length="40" name="maxpeople" type="integer"/>
+        <element label="ParkingTypeID" max_length="40" name="parkingtypeid" type="integer"/>
+        <element label="SiteID" max_length="40" name="siteid" type="integer"/>
+        <element label="SiteNumber" max_length="40" name="sitenumber" type="integer"/>
+        <element label="SiteTypeID" max_length="40" name="sitetypeid" type="integer"/>
+        <element label="SuitTypeID1" max_length="40" name="suittypeid1" type="integer"/>
+        <element label="SuitTypeID2" max_length="40" name="suittypeid2" type="integer"/>
+        <element label="SuitTypeID3" max_length="40" name="suittypeid3" type="integer"/>
+        <element label="SuitTypeID4" max_length="40" name="suittypeid4" type="integer"/>
+        <element label="SuitTypeID5" max_length="40" name="suittypeid5" type="integer"/>
+        <element label="X1" max_length="40" name="x1" type="integer"/>
+        <element label="X2" max_length="40" name="x2" type="integer"/>
+        <element label="Y1" max_length="40" name="y1" type="integer"/>
+        <element label="Y2" max_length="40" name="y2" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (ContentDetail)">13f8a822db5b330021848a1848961975</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (ContentDetail)</name>
+        <order/>
+        <parent>d3f8a822db5b330021848a184896192a</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 01:35:16</sys_created_on>
+        <sys_id>9ff8e822db5b330021848a1848961955</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (ContentDetail)</sys_name>
+        <sys_package display_value="Booking" source="x_263143_booking">b5a3e426db1b330021848a18489619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Booking">b5a3e426db1b330021848a18489619c1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_9ff8e822db5b330021848a1848961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 01:35:16</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=9ff8e822db5b330021848a1848961955"/>
+</record_update>

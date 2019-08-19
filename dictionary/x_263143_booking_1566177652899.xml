@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Booking 1566177652899" max_length="40" name="x_263143_booking_1566177652899" type="collection">
+        <element attributes="import_attribute_name=ContentMasterId" label="ContentMasterId" max_length="40" name="u_contentmasterid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OrderBy" label="OrderBy" max_length="40" name="u_orderby" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TableName" label="TableName" max_length="40" name="u_tablename" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=UniqueKeyField" label="UniqueKeyField" max_length="40" name="u_uniquekeyfield" type="string"/>
+    </element>
+</database>

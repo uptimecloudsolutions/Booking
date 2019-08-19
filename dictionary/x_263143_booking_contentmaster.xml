@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ContentMaster" max_length="40" name="x_263143_booking_contentmaster" text_index="true" type="collection">
+        <element label="ContentMasterId" max_length="40" name="contentmasterid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="OrderBy" max_length="40" name="orderby" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TableName" max_length="40" name="tablename" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="UniqueKeyField" max_length="40" name="uniquekeyfield" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ParkingType" max_length="40" name="x_263143_booking_parkingtype" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element label="ParkingTypeID" max_length="40" name="parkingtypeid" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>suburb</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>140</order>
+        <record_id_field/>
+        <screen display_value="Details">0ff86822db5b330021848a184896190a</screen>
+        <screen_data_item_table>x_263143_booking_blacklist</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 01:35:14</sys_created_on>
+        <sys_id>47f86822db5b330021848a1848961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>suburb</sys_name>
+        <sys_package display_value="Booking" source="x_263143_booking">b5a3e426db1b330021848a18489619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Booking">b5a3e426db1b330021848a18489619c1</sys_scope>
+        <sys_update_name>sys_sg_screen_field_47f86822db5b330021848a1848961941</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 01:35:14</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

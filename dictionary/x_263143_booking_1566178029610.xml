@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Booking 1566178029610" max_length="40" name="x_263143_booking_1566178029610" type="collection">
+        <element attributes="import_attribute_name=BreakAfterThisField" label="BreakAfterThisField" max_length="40" name="u_breakafterthisfield" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ColName" label="ColName" max_length="40" name="u_colname" type="string"/>
+        <element attributes="import_attribute_name=ContentDetailId" label="ContentDetailId" max_length="40" name="u_contentdetailid" type="integer"/>
+        <element attributes="import_attribute_name=ContentMasterId" label="ContentMasterId" max_length="40" name="u_contentmasterid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=DisplayIfEmpty" label="DisplayIfEmpty" max_length="40" name="u_displayifempty" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DropBoxKeyField" label="DropBoxKeyField" max_length="40" name="u_dropboxkeyfield" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DropBoxSQL" label="DropBoxSQL" max_length="283" name="u_dropboxsql" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FieldType" label="FieldType" max_length="40" name="u_fieldtype" type="string"/>
+        <element attributes="import_attribute_name=Filter" label="Filter" max_length="40" name="u_filter" type="integer"/>
+        <element attributes="import_attribute_name=GenId" label="GenId" max_length="40" name="u_genid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HeadFontStyle" label="HeadFontStyle" max_length="40" name="u_headfontstyle" type="string"/>
+        <element attributes="import_attribute_name=HeadVisible" label="HeadVisible" max_length="40" name="u_headvisible" type="integer"/>
+        <element attributes="import_attribute_name=Image" label="Image" max_length="40" name="u_image" type="integer"/>
+        <element attributes="import_attribute_name=ReadOnly" label="ReadOnly" max_length="40" name="u_readonly" type="integer"/>
+        <element attributes="import_attribute_name=SeqNumber" label="SeqNumber" max_length="40" name="u_seqnumber" type="integer"/>
+        <element attributes="import_attribute_name=ValueFieldWidth" label="ValueFieldWidth" max_length="40" name="u_valuefieldwidth" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ValueFontStyle" label="ValueFontStyle" max_length="40" name="u_valuefontstyle" type="string"/>
+        <element attributes="import_attribute_name=ValueRequired" label="ValueRequired" max_length="40" name="u_valuerequired" type="integer"/>
+        <element attributes="import_attribute_name=ValueUnderHeading" label="ValueUnderHeading" max_length="40" name="u_valueunderheading" type="integer"/>
+        <element attributes="import_attribute_name=ValueVisible" label="ValueVisible" max_length="40" name="u_valuevisible" type="integer"/>
+    </element>
+</database>

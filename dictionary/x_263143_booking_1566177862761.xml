@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Booking 1566177862761" max_length="40" name="x_263143_booking_1566177862761" type="collection">
+        <element attributes="import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address" label="Address" max_length="59" name="u_address" type="string"/>
+        <element attributes="import_attribute_name=AdminFee" label="AdminFee" max_length="40" name="u_adminfee" type="integer"/>
+        <element attributes="import_attribute_name=Adults" label="Adults" max_length="40" name="u_adults" type="integer"/>
+        <element attributes="import_attribute_name=Amount" label="Amount" max_length="15" name="u_amount" type="decimal"/>
+        <element attributes="import_attribute_name=AmountID" label="AmountID" max_length="40" name="u_amountid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BookingDate" label="BookingDate" max_length="40" name="u_bookingdate" type="glide_date_time"/>
+        <element attributes="import_attribute_name=BookingID" label="BookingID" max_length="40" name="u_bookingid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CancelDate" label="CancelDate" max_length="40" name="u_canceldate" type="string"/>
+        <element attributes="import_attribute_name=Children" label="Children" max_length="40" name="u_children" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ConfirmationDate" label="ConfirmationDate" max_length="40" name="u_confirmationdate" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CW_RetrievalID" label="CW_RetrievalID" max_length="40" name="u_cw_retrievalid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DriversLicenseNo" label="DriversLicenseNo" max_length="40" name="u_driverslicenseno" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="43" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EndDate" label="EndDate" max_length="40" name="u_enddate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Facsimile" label="Facsimile" max_length="40" name="u_facsimile" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName1" label="FirstName1" max_length="40" name="u_firstname1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName2" label="FirstName2" max_length="40" name="u_firstname2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName3" label="FirstName3" max_length="40" name="u_firstname3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName4" label="FirstName4" max_length="40" name="u_firstname4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName5" label="FirstName5" max_length="40" name="u_firstname5" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName6" label="FirstName6" max_length="40" name="u_firstname6" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName7" label="FirstName7" max_length="40" name="u_firstname7" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName8" label="FirstName8" max_length="40" name="u_firstname8" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName1" label="LastName1" max_length="40" name="u_lastname1" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName2" label="LastName2" max_length="40" name="u_lastname2" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName3" label="LastName3" max_length="40" name="u_lastname3" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName4" label="LastName4" max_length="40" name="u_lastname4" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName5" label="LastName5" max_length="40" name="u_lastname5" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName6" label="LastName6" max_length="40" name="u_lastname6" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName7" label="LastName7" max_length="40" name="u_lastname7" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName8" label="LastName8" max_length="40" name="u_lastname8" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Mobile" label="Mobile" max_length="40" name="u_mobile" type="string"/>
+        <element attributes="import_attribute_name=NoOfNights" label="NoOfNights" max_length="40" name="u_noofnights" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Organisation" label="Organisation" max_length="40" name="u_organisation" type="string"/>
+        <element attributes="import_attribute_name=Paid" label="Paid" max_length="40" name="u_paid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Postcode" label="Postcode" max_length="40" name="u_postcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RegoNumber" label="RegoNumber" max_length="44" name="u_regonumber" type="string"/>
+        <element attributes="import_attribute_name=SiteID" label="SiteID" max_length="40" name="u_siteid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=StartDate" label="StartDate" max_length="40" name="u_startdate" type="glide_date_time"/>
+        <element attributes="import_attribute_name=StateID" label="StateID" max_length="40" name="u_stateid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Telephone" label="Telephone" max_length="40" name="u_telephone" type="string"/>
+    </element>
+</database>

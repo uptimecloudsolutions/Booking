@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BlacklistDetail" max_length="40" name="x_263143_booking_blacklistdetail" text_index="true" type="collection">
+        <element label="BlockedBookingId" max_length="40" name="blockedbookingid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="DateTimeStamp" max_length="40" name="datetimestamp" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="EndDate" max_length="40" name="enddate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="SiteId" max_length="40" name="siteid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="StartDate" max_length="40" name="startdate" type="string"/>
+    </element>
+</database>

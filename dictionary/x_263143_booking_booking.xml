@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Booking" max_length="40" name="x_263143_booking_booking" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="59" name="address" type="string"/>
+        <element label="AdminFee" max_length="40" name="adminfee" type="integer"/>
+        <element label="Adults" max_length="40" name="adults" type="integer"/>
+        <element label="Amount" max_length="15" name="amount" type="decimal"/>
+        <element label="AmountID" max_length="40" name="amountid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="BookingDate" max_length="40" name="bookingdate" type="glide_date_time"/>
+        <element label="BookingID" max_length="40" name="bookingid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="CancelDate" max_length="40" name="canceldate" type="string"/>
+        <element label="Children" max_length="40" name="children" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ConfirmationDate" max_length="40" name="confirmationdate" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="CW_RetrievalID" max_length="40" name="cw_retrievalid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DriversLicenseNo" max_length="40" name="driverslicenseno" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="43" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="EndDate" max_length="40" name="enddate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Facsimile" max_length="40" name="facsimile" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName1" max_length="40" name="firstname1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName2" max_length="40" name="firstname2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName3" max_length="40" name="firstname3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName4" max_length="40" name="firstname4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName5" max_length="40" name="firstname5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName6" max_length="40" name="firstname6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName7" max_length="40" name="firstname7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName8" max_length="40" name="firstname8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName1" max_length="40" name="lastname1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName2" max_length="40" name="lastname2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName3" max_length="40" name="lastname3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName4" max_length="40" name="lastname4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName5" max_length="40" name="lastname5" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName6" max_length="40" name="lastname6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName7" max_length="40" name="lastname7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName8" max_length="40" name="lastname8" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mobile" max_length="40" name="mobile" type="string"/>
+        <element label="NoOfNights" max_length="40" name="noofnights" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Organisation" max_length="40" name="organisation" type="string"/>
+        <element label="Paid" max_length="40" name="paid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Postcode" max_length="40" name="postcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="RegoNumber" max_length="44" name="regonumber" type="string"/>
+        <element label="SiteID" max_length="40" name="siteid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="StartDate" max_length="40" name="startdate" type="glide_date_time"/>
+        <element label="StateID" max_length="40" name="stateid" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" label="Telephone" max_length="40" name="telephone" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Blacklist" max_length="40" name="x_263143_booking_blacklist" text_index="true" type="collection">
+        <element label="Active" max_length="40" name="active" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element label="BlacklistID" max_length="40" name="blacklistid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="DateCreated" max_length="40" name="datecreated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="DriversLicenseNo" max_length="40" name="driverslicenseno" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ExpiryDate" max_length="40" name="expirydate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="FirstName" max_length="40" name="firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="LastName" max_length="40" name="lastname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="PostCode" max_length="40" name="postcode" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="RegoNumber" max_length="40" name="regonumber" type="string"/>
+        <element label="StateID" max_length="40" name="stateid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Suburb" max_length="40" name="suburb" type="string"/>
+        <element label="Telephone" max_length="40" name="telephone" type="float"/>
+    </element>
+</database>

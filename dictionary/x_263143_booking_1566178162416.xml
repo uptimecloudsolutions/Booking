@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Booking 1566178162416" max_length="40" name="x_263143_booking_1566178162416" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=ParkingTypeID" label="ParkingTypeID" max_length="40" name="u_parkingtypeid" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Booking 1566178222194" max_length="40" name="x_263143_booking_1566178222194" type="collection">
+        <element attributes="import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="integer"/>
+        <element attributes="import_attribute_name=Breadth" label="Breadth" max_length="15" name="u_breadth" type="decimal"/>
+        <element attributes="import_attribute_name=Closed" label="Closed" max_length="40" name="u_closed" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Comments" label="Comments" max_length="50" name="u_comments" type="string"/>
+        <element attributes="import_attribute_name=Cost" label="Cost" max_length="15" name="u_cost" type="decimal"/>
+        <element attributes="import_attribute_name=FireplaceTypeID" label="FireplaceTypeID" max_length="40" name="u_fireplacetypeid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HREF" label="HREF" max_length="128" name="u_href" type="string"/>
+        <element attributes="import_attribute_name=Length" label="Length" max_length="15" name="u_length" type="decimal"/>
+        <element attributes="import_attribute_name=MapID" label="MapID" max_length="40" name="u_mapid" type="integer"/>
+        <element attributes="import_attribute_name=MaxPeople" label="MaxPeople" max_length="40" name="u_maxpeople" type="integer"/>
+        <element attributes="import_attribute_name=ParkingTypeID" label="ParkingTypeID" max_length="40" name="u_parkingtypeid" type="integer"/>
+        <element attributes="import_attribute_name=SiteID" label="SiteID" max_length="40" name="u_siteid" type="integer"/>
+        <element attributes="import_attribute_name=SiteNumber" label="SiteNumber" max_length="40" name="u_sitenumber" type="integer"/>
+        <element attributes="import_attribute_name=SiteTypeID" label="SiteTypeID" max_length="40" name="u_sitetypeid" type="integer"/>
+        <element attributes="import_attribute_name=SuitTypeID1" label="SuitTypeID1" max_length="40" name="u_suittypeid1" type="integer"/>
+        <element attributes="import_attribute_name=SuitTypeID2" label="SuitTypeID2" max_length="40" name="u_suittypeid2" type="integer"/>
+        <element attributes="import_attribute_name=SuitTypeID3" label="SuitTypeID3" max_length="40" name="u_suittypeid3" type="integer"/>
+        <element attributes="import_attribute_name=SuitTypeID4" label="SuitTypeID4" max_length="40" name="u_suittypeid4" type="integer"/>
+        <element attributes="import_attribute_name=SuitTypeID5" label="SuitTypeID5" max_length="40" name="u_suittypeid5" type="integer"/>
+        <element attributes="import_attribute_name=x1" label="x1" max_length="40" name="u_x1" type="integer"/>
+        <element attributes="import_attribute_name=x2" label="x2" max_length="40" name="u_x2" type="integer"/>
+        <element attributes="import_attribute_name=y1" label="y1" max_length="40" name="u_y1" type="integer"/>
+        <element attributes="import_attribute_name=y2" label="y2" max_length="40" name="u_y2" type="integer"/>
+    </element>
+</database>

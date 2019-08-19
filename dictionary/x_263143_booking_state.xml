@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="State" max_length="40" name="x_263143_booking_state" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element label="StateID" max_length="40" name="stateid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="StateName" max_length="40" name="statename" type="string"/>
+    </element>
+</database>

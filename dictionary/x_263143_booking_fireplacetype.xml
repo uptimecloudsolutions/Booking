@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="FirePlaceType" max_length="40" name="x_263143_booking_fireplacetype" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element label="FireplaceTypeID" max_length="40" name="fireplacetypeid" type="integer"/>
+    </element>
+</database>

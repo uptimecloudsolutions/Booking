@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Booking 1566177767928" max_length="40" name="x_263143_booking_1566177767928" type="collection">
+        <element attributes="import_attribute_name=Active" label="Active" max_length="40" name="u_active" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Address" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="import_attribute_name=BlacklistID" label="BlacklistID" max_length="40" name="u_blacklistid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DateCreated" label="DateCreated" max_length="40" name="u_datecreated" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DriversLicenseNo" label="DriversLicenseNo" max_length="40" name="u_driverslicenseno" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ExpiryDate" label="ExpiryDate" max_length="40" name="u_expirydate" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FirstName" label="FirstName" max_length="40" name="u_firstname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LastName" label="LastName" max_length="40" name="u_lastname" type="string"/>
+        <element attributes="import_attribute_name=PostCode" label="PostCode" max_length="40" name="u_postcode" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RegoNumber" label="RegoNumber" max_length="40" name="u_regonumber" type="string"/>
+        <element attributes="import_attribute_name=StateID" label="StateID" max_length="40" name="u_stateid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Suburb" label="Suburb" max_length="40" name="u_suburb" type="string"/>
+        <element attributes="import_attribute_name=Telephone" label="Telephone" max_length="40" name="u_telephone" type="float"/>
+    </element>
+</database>

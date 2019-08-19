@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Site)">ebf8ec22db5b330021848a1848961947</button>
+        <item_parameter display_value="Site comments">2ff8ec22db5b330021848a1848961942</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 01:35:16</sys_created_on>
+        <sys_id>ebf8ec22db5b330021848a18489619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2ff8ec22db5b330021848a1848961942</sys_name>
+        <sys_package display_value="Booking" source="x_263143_booking">b5a3e426db1b330021848a18489619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Booking">b5a3e426db1b330021848a18489619c1</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_ebf8ec22db5b330021848a18489619e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 01:35:16</sys_updated_on>
+        <ui_parameter display_value="Comments">abf8ec22db5b330021848a1848961949</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Booking">f6f860eedb1b330021848a184896197c</applet_launcher>
+        <icon display_value="Home Booking">7ef860eedb1b330021848a184896197d</icon>
+        <label>Booking</label>
+        <roles>x_263143_booking.admin,x_263143_booking.user,x_263143_booking.manager</roles>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-19 01:35:14</sys_created_on>
+        <sys_id>3ef860eedb1b330021848a184896197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Booking</sys_name>
+        <sys_package display_value="Booking" source="x_263143_booking">b5a3e426db1b330021848a18489619c1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Booking">b5a3e426db1b330021848a18489619c1</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_3ef860eedb1b330021848a184896197d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-19 01:35:14</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

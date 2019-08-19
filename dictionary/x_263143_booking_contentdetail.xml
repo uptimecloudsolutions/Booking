@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ContentDetail" max_length="40" name="x_263143_booking_contentdetail" text_index="true" type="collection">
+        <element label="BreakAfterThisField" max_length="40" name="breakafterthisfield" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ColName" max_length="40" name="colname" type="string"/>
+        <element label="ContentDetailId" max_length="40" name="contentdetailid" type="integer"/>
+        <element label="ContentMasterId" max_length="40" name="contentmasterid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element label="DisplayIfEmpty" max_length="40" name="displayifempty" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="DropBoxKeyField" max_length="40" name="dropboxkeyfield" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DropBoxSQL" max_length="283" name="dropboxsql" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="FieldType" max_length="40" name="fieldtype" type="string"/>
+        <element label="Filter" max_length="40" name="filter" type="integer"/>
+        <element label="GenId" max_length="40" name="genid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="HeadFontStyle" max_length="40" name="headfontstyle" type="string"/>
+        <element label="HeadVisible" max_length="40" name="headvisible" type="integer"/>
+        <element label="Image" max_length="40" name="image" type="integer"/>
+        <element label="ReadOnly" max_length="40" name="readonly" type="integer"/>
+        <element label="SeqNumber" max_length="40" name="seqnumber" type="integer"/>
+        <element label="ValueFieldWidth" max_length="40" name="valuefieldwidth" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="ValueFontStyle" max_length="40" name="valuefontstyle" type="string"/>
+        <element label="ValueRequired" max_length="40" name="valuerequired" type="integer"/>
+        <element label="ValueUnderHeading" max_length="40" name="valueunderheading" type="integer"/>
+        <element label="ValueVisible" max_length="40" name="valuevisible" type="integer"/>
+    </element>
+</database>
